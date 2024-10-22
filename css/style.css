@@ -59,7 +59,7 @@ li{
 a{
     text-decoration: none;
     color:rgb(136, 136, 136);
-    text-transform: uppercase;
+    <!-- text-transform: uppercase; -->
     
 }
 
