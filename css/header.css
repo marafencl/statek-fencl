@@ -7,7 +7,7 @@ html {
 }
 
 header {
-    height: 100px;
+    height: 120px;
     width: 100%;
     padding: 0 30px;
     display: flex;
@@ -38,7 +38,7 @@ header {
     padding: 20px;
     text-decoration: none;
     font-family: "Pontano Sans", sans-serif;
-    font-size: 25px;
+    font-size: 22px;
     display: flex;
     border-bottom: 2px solid transparent;
     transition: border-color 0.4s, border-width 0.3s;
