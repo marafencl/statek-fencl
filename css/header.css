@@ -73,6 +73,11 @@ div > .button:hover {
         width: calc(100vw - 60px);
     }
 
+    #image_navbar{
+        max-height: 80px;
+        width: auto;
+    }
+
     .higher{
         height: 80vh;
         overflow: scroll;
